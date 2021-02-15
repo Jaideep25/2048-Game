@@ -1,9 +1,5 @@
-# 2048 游戏
+# 2048 game
 
-在线玩：https://4ark.me/2048
+Link : https://jaideep25.github.io/2048-Game-2.0/
 
-游戏截图：
-
-![](https://ws1.sinaimg.cn/large/006mS5wEgy1fzy0t6zcp4j31200n30tt.jpg)
-
-如果对您有帮助欢迎 Star！😋
+Hope you enjoy! 😋😉
