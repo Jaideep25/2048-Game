@@ -115,8 +115,8 @@ h2.subtitle {
 .game-container {
     position: relative;
     margin-top: 15px;
-    width: 650px;
-    height: 650px;
+    width: 450px;
+    height: 450px;
     background: #ff7300;
     border-radius: 6px;
     touch-action: none;
@@ -153,7 +153,7 @@ h2.subtitle {
 }
 
 .grid-cell {
-    margin-right: 6%;
+    margin-right: 2%;
     background: #ff3c00;
 }
 
